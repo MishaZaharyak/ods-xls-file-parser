@@ -1,0 +1,7 @@
+defusedxml==0.6.0
+lml==0.1.0
+odfpy==1.4.1
+pyexcel==0.6.6
+pyexcel-io==0.6.4
+pyexcel-ods==0.6.0
+texttable==1.6.3
